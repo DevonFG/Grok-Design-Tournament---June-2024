@@ -1,0 +1,32 @@
+body {
+  width: 1024px;
+  margin: auto;
+}
+
+img.about { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  
+}
+
+p {
+  display: block;
+  margin-left: 5px;
+}
+
+img.creature {
+  width: 300px;
+  display: block;
+  margin-left: 5px;
+}
+
+p.description {
+
+}
+
+p.name {
+  
+}
+
