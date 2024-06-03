@@ -1,0 +1,114 @@
+<! NOTE: This code doesn't change, the challenge is to design it>
+<head>
+  <title>Australian Mythical Preservation Society</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+  <link href="main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="header">
+    <h1 class="logo">Bunyip Warrior</h1>
+    <h2 class="logo">Become a Bunyip Ambassador <br> Spread the legend!</h2>
+    <a class="header" href="#">Join now</a>
+  </div>
+
+  <div class="about">
+    <div class="about-text">
+      <h3 class="about-text">About us</h3>
+      <p class="about-text"><em>The Australian Mythical Preservation Society</em> is dedicated to conserving habitats,
+        preserving
+        stories, and fostering greater understanding of Australian folklore, with a particular focus on their indigenous
+        origins.</p>
+      <p class="about-text">Through education, outreach, and collaborative initiatives, we strive to deepen appreciation
+        for these rich traditions, ensuring they are respected and celebrated as integral parts of Australia's cultural
+        heritage. Join us in our mission to preserve and promote the enchanting world of Australian mythology, bridging
+        the past with the present for generations to come.</p>
+    </div>
+    <div class="about-image">
+      <img class="about" src="bunyip.jpg" alt="Bunyip of the swamp">
+    </div>
+  </div>
+
+  <div class="story-focus">
+    <h3 class="story">Of bunyips and other beasts: Living memories of long-extinct creatures in art and stories</h3>
+    <p class="source">by Patrick D. Nunn and Luiza Corral Martins De Oliveira Ponciano, <a class="source"
+                                                                                           href="https://theconversation.com/of-bunyips-and-other-beasts-living-memories-of-long-extinct-creatures-in-art-and-stories-113031">The
+      Conversation</a></p>
+    <p class="story">Maybe the bunyip, that quintessentially Australian beast, said to groan and bellow incessantly
+      from waterholes, was a name recently given to the large water-rat or rakali - something that could be mistaken
+      for an otter. But the name "bunyip" had perhaps earlier been applied to a succession of apparently strange
+      creatures.</p>
+    <p class="story">There is good evidence from several parts of the world that stories about observations made more
+      than 7,000 years ago - perhaps more than 10,000 years ago - have come down to us today in intelligible form.
+      With this in mind, it's plausible to suppose human memories of long-extinct creatures today underpin many
+      stories that we have generally regarded as fiction.</p>
+    <p class="source">Read the full article on <a class="source"
+                                                  href="https://theconversation.com/of-bunyips-and-other-beasts-living-memories-of-long-extinct-creatures-in-art-and-stories-113031">The
+      Conversation</a></p>
+  </div>
+
+  <div class="main">
+    <div class="creature-section">
+      <h3 class="main">Australian Legends</h3>
+      <p class="main">How many Australian mystical creatures do you know? Here's some you may not have heard of.</p>
+
+      <div class="creature">
+        <img class="creature" src="Moolyewonk.jpg" alt="Moolyewonk">
+        <p class="name">Moolyewonk</p>
+        <p class="description">The Dharug people have legends of beasts they called Mirreeulla or Moolyewonk that dwelt
+          primarily in Hawkesbury River near Sydney. These serpent-like creatures are from local Aboriginal folklore,
+          passed down through oral traditions.</p>
+        <a class="learn-more" href="#">Learn More</a>
+      </div>
+
+      <div class="creature">
+        <img class="creature" src="Yara-ma-yha-who.jpg" alt="Yara-ma-yha-who">
+        <p class="name">Yara-ma-yha-who</p>
+        <p class="description">This creature is said to be a small, red, with a large head and mouth. The
+          Yara-ma-yha-who serves as a cautionary tale in Aboriginal folklore, warning children to avoid wandering off
+          alone and to be wary of the dangers that lurk in the wilderness.</p>
+        <a class="learn-more" href="#">Learn More</a>
+      </div>
+
+      <div class="creature">
+        <img class="creature" src="yowie.jpg" alt="Yowie">
+        <p class="name">Yowie</p>
+        <p class="description">The Yowie is a mythical creature said to inhabit the Australian wilderness, particularly
+          in the forests and the Outback. The Yowie is described as a large, hairy, ape-like creature, often depicted as
+          standing upright and possessing human-like qualities.</p>
+        <a class="learn-more" href="#">Learn More</a>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-donate">
+      <h4 class="footer-donate">Support Us</h4>
+      <p class="footer-donate"><a class="footer-donate" href="#">Host a Dreamtime workshop</a></p>
+      <p class="footer-donate"><a class="footer-donate" href="#">Become a Bunyip Warrior</a></p>
+      <p class="footer-donate"><a class="footer-donate" href="#">Donate to habitat regeneration</a></p>
+    </div>
+    <div class="footer-about">
+      <h4>About</h4>
+      <p class="footer-about"><a class="footer-about" href="#">History</a></p>
+      <p class="footer-about"><a class="footer-about" href="#">Culture</a></p>
+      <p class="footer-about"><a class="footer-about" href="#">Blog</a></p>
+    </div>
+    <div class="footer-social">
+      <h4>Follow us! </h4>
+      <p class="footer-social"><a class="footer-social" href="#">Facebook <i class="fab fa-facebook-square"></i></a>
+      </p>
+      <p class="footer-social"><a class="footer-social" href="#">Instagram <i class="fab fa-instagram"></i></a></p>
+
+      <p class="footer-social"><a class="footer-social" href="#">Youtube <i class="fab fa-youtube-square"></i></a></p>
+    </div>
+    <div class="site-links">
+      <p class="footer-logo">
+        <span class="acknowledgement">We would like to acknowledge that Bunyip Warrior resides in Naarm, the country
+          of the Kulin nation.</span>
+        <span class="copyright">&copy; Copyright 2021 - 2024 Bunyip Warrior, Pty Ltd.</span>
+      </p>
+    </div>
+  </div>
+</body>
